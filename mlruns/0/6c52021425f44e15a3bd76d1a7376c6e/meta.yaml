@@ -1,0 +1,15 @@
+artifact_uri: /home/abishek-tiger/GitRepoFolder/mlflow-tutorial/mlruns/0/6c52021425f44e15a3bd76d1a7376c6e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c52021425f44e15a3bd76d1a7376c6e
+run_name: secretive-doe-120
+run_uuid: 6c52021425f44e15a3bd76d1a7376c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733303023996
+status: 1
+tags: []
+user_id: abishek-tiger

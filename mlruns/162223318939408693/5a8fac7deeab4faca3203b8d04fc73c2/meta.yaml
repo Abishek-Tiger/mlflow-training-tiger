@@ -1,0 +1,15 @@
+artifact_uri: /home/abishek-tiger/GitRepoFolder/mlflow-tutorial/mlruns/162223318939408693/5a8fac7deeab4faca3203b8d04fc73c2/artifacts
+end_time: 1733301596198
+entry_point_name: ''
+experiment_id: '162223318939408693'
+lifecycle_stage: active
+run_id: 5a8fac7deeab4faca3203b8d04fc73c2
+run_name: loud-stoat-821
+run_uuid: 5a8fac7deeab4faca3203b8d04fc73c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733301594665
+status: 3
+tags: []
+user_id: abishek-tiger

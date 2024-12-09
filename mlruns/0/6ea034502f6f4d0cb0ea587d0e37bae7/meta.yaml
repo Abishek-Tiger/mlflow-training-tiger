@@ -1,0 +1,15 @@
+artifact_uri: /home/abishek-tiger/GitRepoFolder/mlflow-tutorial/mlruns/0/6ea034502f6f4d0cb0ea587d0e37bae7/artifacts
+end_time: 1733303148291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ea034502f6f4d0cb0ea587d0e37bae7
+run_name: ''
+run_uuid: 6ea034502f6f4d0cb0ea587d0e37bae7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733303105086
+status: 3
+tags: []
+user_id: abishek-tiger

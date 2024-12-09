@@ -1,0 +1,15 @@
+artifact_uri: /home/abishek-tiger/GitRepoFolder/mlflow-tutorial/mlruns/162223318939408693/40b82b21ed7a461cab8e8c07f341217b/artifacts
+end_time: 1733301803241
+entry_point_name: ''
+experiment_id: '162223318939408693'
+lifecycle_stage: active
+run_id: 40b82b21ed7a461cab8e8c07f341217b
+run_name: useful-lynx-7
+run_uuid: 40b82b21ed7a461cab8e8c07f341217b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733301802263
+status: 3
+tags: []
+user_id: abishek-tiger

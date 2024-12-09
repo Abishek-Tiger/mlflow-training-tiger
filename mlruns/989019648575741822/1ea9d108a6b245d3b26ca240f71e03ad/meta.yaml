@@ -1,0 +1,15 @@
+artifact_uri: /home/abishek-tiger/GitRepoFolder/mlflow-tutorial/mlruns/989019648575741822/1ea9d108a6b245d3b26ca240f71e03ad/artifacts
+end_time: 1733736845875
+entry_point_name: ''
+experiment_id: '989019648575741822'
+lifecycle_stage: active
+run_id: 1ea9d108a6b245d3b26ca240f71e03ad
+run_name: righteous-mink-577
+run_uuid: 1ea9d108a6b245d3b26ca240f71e03ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733736844062
+status: 3
+tags: []
+user_id: abishek-tiger

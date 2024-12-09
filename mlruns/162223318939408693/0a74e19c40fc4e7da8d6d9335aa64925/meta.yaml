@@ -1,0 +1,15 @@
+artifact_uri: /home/abishek-tiger/GitRepoFolder/mlflow-tutorial/mlruns/162223318939408693/0a74e19c40fc4e7da8d6d9335aa64925/artifacts
+end_time: 1733301806054
+entry_point_name: ''
+experiment_id: '162223318939408693'
+lifecycle_stage: active
+run_id: 0a74e19c40fc4e7da8d6d9335aa64925
+run_name: adorable-roo-669
+run_uuid: 0a74e19c40fc4e7da8d6d9335aa64925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733301805118
+status: 3
+tags: []
+user_id: abishek-tiger

@@ -1,0 +1,6 @@
+artifact_location: /home/abishek-tiger/GitRepoFolder/mlflow-tutorial/mlruns/162223318939408693
+creation_time: 1733300519583
+experiment_id: '162223318939408693'
+last_update_time: 1733300519583
+lifecycle_stage: active
+name: ElasticNet_wine
